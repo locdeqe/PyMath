@@ -152,7 +152,6 @@ if __name__ == '__main__':
         while mod.t < mod.height:
             mod.step()
         x = mod.calculateRepits(mod.config)
-        print x
         averges_array.append(x)
 
     save_plot(x_scale_array, averges_array)
