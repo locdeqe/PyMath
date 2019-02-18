@@ -4,3 +4,4 @@
 *.pyc
 Titanic/.vscode/
 Titanic/results/
+ml_course/*/.ipynb_checkpoints
